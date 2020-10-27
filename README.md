@@ -1,11 +1,13 @@
 ## 念念不忘 必有回响 👋
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://github.com/wugaoliang1116/picture/blob/main/2020-10-25/coding.gif" />
 
 ### I'm GleanWu
 
 - 做自己爱做的事
 
+### 自己构建了一个在线md，欢迎体验
+- [在线md](http://editor.blog.wugaoliang.vip/)
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -28,6 +30,7 @@
 
 ### 正在做的事
 - 学习前端
+- 构建自己[博客](http://www.wugaoliang.vip/), 欢迎体验
 
 > ***每天坚持一点 努力向前***
 
