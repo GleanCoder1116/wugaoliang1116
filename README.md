@@ -1,6 +1,6 @@
 ## 念念不忘 必有回响 👋
 ---
-<img align="right" alt="GIF" src="https://github.com/wugaoliang1116/picture/blob/main/2020-10-25/coding.gif" />
+<img align="right" width='360px' alt="GIF" src="https://github.com/wugaoliang1116/picture/blob/main/2020-10-25/coding.gif" />
 
 ### I'm GleanWu
 
