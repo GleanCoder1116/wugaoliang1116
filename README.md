@@ -28,7 +28,7 @@
 
 ### 开源项目
 - [HiUI](https://github.com/XiaoMi/hiui)
-- 通过 WebComponet 搭建的 UI 组件库[WheatUi](https://github.com/glean-wheat/wheat-ui)
+- 通过 WebComponets 搭建的 UI 组件库[WheatUi](https://github.com/glean-wheat/wheat-ui)
 
 ### 正在做的事
 - 学习Golang
