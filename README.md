@@ -4,10 +4,9 @@
 
 ### I'm GleanWu
 
-- 做自己爱做的事
+- 做点感兴趣的事情
 
-### 自己构建了一个在线md，欢迎体验
-- [在线md](http://editor.blog.wugaoliang.vip/)
+
 
 
 ### 🛠 技术栈 | Tech Stack
@@ -32,9 +31,9 @@
 
 ### 正在做的事
 - 学习Golang
-- 构建自己[博客](http://www.wugaoliang.vip/), 欢迎体验
-- 接下来我想推荐一下自己的[博客](http://www.wugaoliang.vip/)，刚开始还在完善中：
-- 以及自己近期一直在坚持写的[基础入门知识](http://www.wugaoliang.vip/book/)
+- 构建了GPT的效能插件
+- 学习langChain
+- 有时间搞搞webRTC
 
 > ***每天坚持一点 努力向前***
 
