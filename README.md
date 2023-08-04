@@ -32,7 +32,7 @@
 ### 正在做的事
 - 学习Golang
 - 构建了GPT的效能插件
-- 学习langChain
+- 学习LangChain
 - 有时间搞搞webRTC
 
 > ***每天坚持一点 努力向前***
